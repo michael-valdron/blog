@@ -1,4 +1,4 @@
-(ns ca.michaelvaldron.core
+(ns ca.michaelvaldron.blog.core
   (:require [cryogen-core.compiler :refer [compile-assets-timed]]
             [cryogen-core.plugins :refer [load-plugins]]))
 
